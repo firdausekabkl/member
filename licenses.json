@@ -19,7 +19,7 @@
   },
   {
     "key": "LIC-127-DEV",
-    "domain": "127.0.0.1",
+    "domain": "",
     "status": "active",
     "owner": "Dev 127 Team"
   }
