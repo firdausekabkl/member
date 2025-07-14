@@ -1,0 +1,22 @@
+[
+  {
+    "key": "LIC-1234-5678",
+    "domain": "client1.com",
+    "status": "active"
+  },
+  {
+    "key": "LIC-9999-AAAA",
+    "domain": "client2.com",
+    "status": "suspended"
+  },
+  {
+    "key": "LIC-LOCALHOST-DEV",
+    "domain": "localhost",
+    "status": "active"
+  },
+  {
+    "key": "LIC-127-DEV",
+    "domain": "127.0.0.1",
+    "status": "active"
+  }
+]
