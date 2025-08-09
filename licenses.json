@@ -7,9 +7,9 @@
   },
   {
     "key": "LIC-9999-AAAA",
-    "domain": "",
-    "status": "suspended",
-    "owner": "PT Client Dua"
+    "domain": "gerote.com",
+    "status": "active",
+    "owner": "PT Pribadi"
   },
   {
     "key": "LIC-LOCALHOST-DEV",
